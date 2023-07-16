@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "name": "nextjs-blog",
+  "description": "<<<<<<< HEAD # npm-publish-package ======= This is a starter template for [Learn Next.js](https://nextjs.org/learn). >>>>>>> 68cb128 (Initial commit from Create Next App)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaghanimanali/npm-publish-package.git"
+  },
+  "keywords": [
+    "npm-publish-package"
+  ],
+  "author": "manali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaghanimanali/npm-publish-package/issues"
+  },
+  "homepage": "https://github.com/vaghanimanali/npm-publish-package#readme"
+}
